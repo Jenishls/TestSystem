@@ -1,0 +1,288 @@
+ Nepal Credit & Commerce Bank Ltd.         Version : 4.2.1.362
+                        Corporate Office
+                          MIS- GL ALL
+
+21/08/2019 9:54:37 PM User : JENISH  Station : K87  Page : 1
+-----------------------------------------------------------------
+Text                                     CloseBaln
+-----------------------------------------------------------------
+                 ASSETS                  
+CASH NRS                                 -2,073,337,998.13
+CASH FCY                                  -19,470,647.68
+TOTAL CASH                               -2,092,808,645.81
+NEPAL RASTRA BANK NRS                    -2,650,051,160.63
+NEPAL RASTRA BANK FCY                     -30,480,473.19
+NEPAL RASTRA BANK LC MARGIN A/C               520,452.83
+NRB-MER. PRT LCY                         -112,167,237.37
+NRB-MER. PRT FCY                         
+MERGER NRB BANK ADJ                      
+TOTAL NRB BALANCE                        -2,792,178,418.36
+BALANC WITH LOCAL BANK (NRS)             -193,656,516.71
+BALANCE WITH LOCAL BANK (FCY)              -8,296,903.43
+BALANE WITH FOREIGN BANK FCY             -102,062,128.13
+TOTAL OTHER BANK BALAN                   -304,015,548.27
+INVESTMENT ON GOVT. SECURITIES           -8,801,604,590.00
+INVESTMENT ON SHARE                      -127,813,441.40
+INVESTMENT ON DEBENTURE & BOND           
+INTERBANK LENDING LCY                    -1,920,631,056.98
+INTERBANK LENDING FCY                    
+LOCAL PLACMENT LCY                       
+LOCAL PLACMENT FCY                       -607,115,000.00
+OVERSEASE PLACEMENT                      -1,938,201,140.07
+OTHER INVESTMENT LCY                      -49,212,203.35
+OTHER INVESTMENT FCY                     
+TOTAL IVENSTMENT                         -13,444,577,431.80
+       CASH ITEM/IVENSTMENT              -18,633,580,044.24
+                                         
+OVERDRAFT                                -18,456,023,286.30
+TOD                                            -5,232.83
+CASH CREDIT                              -1,185,292,676.81
+EASY LOAN REVOLVING                      -423,180,194.58
+SMALL AGRI. LOAN REV.                     -28,298,839.47
+POST SHIPMENT LOAN                        -19,999,985.08
+PRE SHIPMENT LOAN NPR                     -13,235,988.52
+PRE SHIPMENT LOAN USD                    
+TR LOAN NPR                              -1,147,739,834.57
+TR LOAN USD                              -1,543,183,953.23
+PAYMENT AGAINST DOC NPR                   -55,877,018.56
+PROFESSIONAL LOAN                         -20,835,765.99
+PERSONAL LOAN                            -3,209,047,036.27
+PERSONAL LOAN(DEMAND)                    -266,152,869.09
+LN AGAINST FDR                           -306,208,592.17
+EDUCATION LOAN                           -531,670,289.42
+EDUCATION LOAN(DEMAND)                   
+LOAN AGAINST GOLD                         -60,831,190.52
+LOAN AGAINST KARODPATI                    -35,106,004.45
+CONTRACT LOAN                             -35,000,000.00
+BRIDGE GAP LOAN NPR                      -839,592,412.19
+DEMAND LOAN                              -4,293,344,812.88
+DEMAND LOAN (SHED)                       -332,747,255.04
+PLEDGE LOAN NPR                          -276,585,063.00
+LOAN AGAINST NSBR                        
+TERM LOAN NPR                            -11,404,150,206.41
+PRIORITY SECTOR LOAN                     
+SHORT TERM LOAN NPR                       -14,999,999.00
+SHORT TERM LOAN(DEMAND)                 -5,317,960,083.95
+EASY LOAN TERMINATING                    -1,400,053,252.38
+HOUSING LOAN NPR                         -4,676,656,616.38
+HIRE PURCHASE LOAN NPR                   -4,821,799,623.51
+NCC VEHICLE TERM LOAN                    -830,794,747.24
+ --------- (continued)
+
+
+ Nepal Credit & Commerce Bank Ltd.         Version : 4.2.1.362
+                        Corporate Office
+                          MIS- GL ALL
+
+21/08/2019 9:54:37 PM User : JENISH  Station : K87  Page : 2
+-----------------------------------------------------------------
+Text                                     CloseBaln
+-----------------------------------------------------------------
+FOREIGN EMPLOYMENT LOAN                  
+DEPRIVED LOAN                             -95,953,783.65
+DEPRIVED LOAN(DEMAND)                    -117,199,436.33
+SMALL AGRICUULTURE LOAN                  -240,510,993.08
+BISUNESS AGRICULTURE LOAN                  -7,016,117.27
+KRISHI & LAGHU UDDYAMI(SHED)             -558,166,629.17
+KRISHI & LAGHU UDDYAMI(DEMAND)           -135,565,704.13
+REHABILATATION LOAN-DR                   
+LOAN AGANST SHARE                        -631,167,842.61
+FORCE LOAN                               
+       TOTAL LOAN & ADVANCE              -63,331,953,336.08
+CLEAN BILLS PURCHASE LCY                 
+CLEAN BILLS PURCHASE FCY                 
+DOX. BILLS PURCHASE LCY                   -19,571,500.00
+DOX. BILLS PURCHASE FCY                  
+DISCOUNTED USANCE LC FCY                 
+TC PURCHASE                              
+      TOTAL BILL & TC PURCHAS             -19,571,500.00
+                                         
+FIXED ASSETS                             -1,638,286,766.12
+                                         
+IENC LOAN                                -2,245,837,830.50
+IENC STAFF LOAN & PF RF LOAN               -1,486,476.78
+IENC INVESTMENT                           -99,391,543.24
+IENC SUBSIDY EARTH QUAKE                     -673,403.88
+IENC IBT                                   -2,378,036.15
+                                         
+INTERBRANCH ACCOUNT1                     
+                                         
+NON BANKING ASSETS                       -890,708,903.11
+                                         
+ADVANCE AGANST RF OTHER                  
+ADVANCE AGANST PF OTHER                  
+OTHER ASSETS                             -7,364,200,995.83
+                                         
+TOTAL EXPENSES                           -769,190,104.06
+       TOTAL ASSETS                      -94,997,258,939.99
+                                         
+                                         
+                 LIABILITIES             
+SHARE CAPITAL                            7,018,587,300.00
+PROPOSED BONUS SHARE                     
+RESERVES                                 2,931,838,928.44
+PROFIT & LOSS A/C                        2,293,794,194.41
+P/L APPROPRIATION A/C                     421,116,094.63
+RETAINED EARNINGS                         446,079,438.53
+     TOTAL CAPITAL                       13,111,415,956.01
+                                         
+BORROWING FRM NRB                        1,160,599,903.12
+BORROW FRM LOCAL BANK                    
+      TOTAL BORROWING                    1,160,599,903.12
+                                         
+CURRENT AC NRS                           2,935,976,278.49
+CURRENT AC FCY                             87,275,086.88
+TOD DEPOSIT                              
+SMALL AGRI. DEPO                                1,838.81
+STAFF OD DEPO                            
+CASH CREDIT DEPOSIT                         2,056,817.01
+EASY LOAN DEPOSIT                             696,711.75
+LOAN AGANST SHARE                        
+    TOTAL CUURENT DEPOSIT                3,026,006,732.94
+ --------- (continued)
+
+
+ Nepal Credit & Commerce Bank Ltd.         Version : 4.2.1.362
+                        Corporate Office
+                          MIS- GL ALL
+
+21/08/2019 9:54:37 PM User : JENISH  Station : K87  Page : 3
+-----------------------------------------------------------------
+Text                                     CloseBaln
+-----------------------------------------------------------------
+                                         
+SAVING FLEXI DEPOSIT NPR                 
+SB BAL SK SAVING NPR                      270,906,509.42
+SB MAHILA SK SAVING NPR                  3,958,980,796.64
+NCC SAVING PLUS NPR                       909,383,297.03
+SHARE DHANI BACHAT KHATA                  174,758,899.83
+KARMACHARI BACHAT KHATA                   867,592,499.83
+SUBHA LABH BACHAT KHATA                   537,918,821.79
+SUBHA LABH PLUS BACHAT                   1,129,348,579.74
+STAFF-SAVING ACCOUNT NPR                  127,401,460.08
+NCC STAFF MEDICAL BENEFIT                 177,181,929.08
+OTHERS PROV. FUND NPR                      15,517,394.35
+NCC UTSAB BACHAT KHA                     5,016,536,421.61
+SB JESTHA NAGARIK                         405,090,307.63
+NCC NEPALI NAGARIK BACHAT KHATA             2,108,522.89
+STAFF RETIRE. FUND                       
+STAFF PREMINUM & INTEREST                  25,084,313.74
+RET. FUND OTHERS                         
+SAVING ACCOUNT LCY                       6,330,295,383.26
+SAVING ACCOUNT FCY                         68,419,713.49
+     TOTAL SAVING ACCOUNT                20,016,524,850.41
+                                         
+FIXED DEPOSIT LCY                        32,612,842,296.95
+FIXED DEPOSIT FCY                         458,200,000.00
+NCC STRUCTURED FIXED DEPOSIT             
+     TOTAL FIXED DEPOSIT                 33,071,042,296.95
+                                         
+CALL DEPOSIT LCY                         12,711,022,205.79
+CALL DEPOSIT FCY                           24,400,516.58
+     TOTAL CALL DEPOSIT                  12,735,422,722.37
+                                         
+MARGIN ACCOUNT LCY                        513,653,867.85
+MARGIN ACCOUNT FCY                          1,081,154.97
+     TOTAL MARGIN DEPOSIT                 514,735,022.82
+            TOTAL DEPOSIT :              69,363,731,625.49
+                                         
+BILLS PAYBLE LCY                           18,904,982.04
+BILLS PAYBLE FCY                         
+     TOTAL BILLS PAYBLE                    18,904,982.04
+                                         
+INTEREST SUSPENSE LOAN                   2,245,696,827.47
+INT. SUSPENSE STAFF LOAN                    1,486,476.78
+INT.  SUSPENSE STAFF PFRF LOAN           
+INT.  SUSP. STAFF OTHER PFRF LOAN        
+                                         
+EMPLOYEE FUND                            
+PRO.& PBL DIVIDEND                          4,058,855.97
+PROVISION STAFF BONUS                       7,175,282.07
+PROVISION FOR INCOME TAX                  256,480,162.73
+PROVISION FOR EXPENSES                     25,947,417.56
+PROVISION FOR DEPRECIATION                799,634,868.12
+PROVISION FOR LOAN LOSS                  2,390,594,293.35
+PROV. FOR LOSS ON NBA                     890,708,903.11
+PROV FOR LOSS  INVESTMENT                  20,631,056.98
+PORV FOR LOSS OTHER ASSETS                 37,872,076.33
+                                         
+AIP ON DEPOSIT                            494,968,255.60
+AIP ON BORROWING                         
+AIP ON IBT                                  2,133,328.79
+                                         
+INTERBRANCH ACCOUNT                        26,135,342.17
+ --------- (continued)
+
+
+ Nepal Credit & Commerce Bank Ltd.         Version : 4.2.1.362
+                        Corporate Office
+                          MIS- GL ALL
+
+21/08/2019 9:54:37 PM User : JENISH  Station : K87  Page : 4
+-----------------------------------------------------------------
+Text                                     CloseBaln
+-----------------------------------------------------------------
+                                         
+OTHER LIABILITY                          3,920,323,469.63
+                                         
+ TOTAL INCOME                             511,645,101.47
+         TOTAL LIABILITY                 95,290,144,184.79
+                                         
+                                         
+NOTE /REMARKS                            
+                                         
+INCOME DETAILS:                          
+INTEREST ON LOAN & ADVANCE                261,745,543.98
+INTREST ON BILL PURCHASE                        6,706.85
+INTEREST ON INVESTMENT                     37,129,191.43
+OTHER INTEREST INCOME                       3,567,928.93
+INTEREST INCOME-IBT                       150,240,867.59
+COMMISSION & DICCOUNT                      19,892,548.69
+OTHER OPERATING INCOME                     24,223,022.48
+FOREX TRADING GAIN                         13,970,732.28
+FOREX REVLUATION GAIN                         309,016.60
+PROVISION WRITEBACK                      
+NON OPERATING INCOME                          559,542.64
+EXTRA ORDIANARY INCOME                   
+       TOTAL INCOME                       511,645,101.47
+                                         
+EXPENSES DETAILS:                        
+INTEREST EXPENSES                        -518,463,452.78
+INTEREST EXPENSES-IBT                    -150,240,867.59
+STAFF EXPENSES                            -60,359,498.23
+OTHER OPERATING  EXPNS(OVERHEAD)          -40,126,285.46
+PROVISION EXPENSES                       
+NON OPERATING EXPENSES                   
+EXTRA ORDIANARY EXPENSES                 
+       TOTAL EXPENSES                    -769,190,104.06
+                                         
+DEPRECIATION EXPENSES                     -10,390,672.77
+                                         
+OFF BALANCE SHEET ITEMS                  
+LC                                       3,656,601,607.28
+GUARANTEE                                13,915,140,771.37
+                                         
+CLEAN BILL COLLECTION                       6,008,502.35
+DOX. BILL COLLECTION                       52,259,606.56
+     TOTAL BILL COLLECTION               
+                                         
+FORWARD CONTRACT PAYABLE                 
+ ====================  (End of Report)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
